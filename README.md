@@ -21,5 +21,5 @@ Model :
 - Categorical data : XGboost (tree base)
 - Numerical data : Regression or deep learning (still trying)
 - Use a model to combine two kinds of datas results.
-- Preprocessing : Combine highly related categorical data to 22 features by observing the correlation matrix (will compare with PCA in the future), transform null data, do label encoder, do some feature transforms.
+- Preprocessing : Combine highly related categorical data to 22 features by observing the correlation matrix (will compare with PCA in the future), transform null data, do label encoder and feature transforms.
 
