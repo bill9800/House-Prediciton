@@ -2,7 +2,7 @@
 
 Data : [Kaggle Prices-Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
-## simple version
+## Simple version
 
 Build a standard version for furture updating.
 
